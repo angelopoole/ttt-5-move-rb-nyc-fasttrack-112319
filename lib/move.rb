@@ -15,5 +15,5 @@ def move(board,index,player = "X")
   board[index]=player
 end
 
-move(1, 1,"X")
+# move(1, 1,"X")
 #i want to add player to board at the number of the index.
